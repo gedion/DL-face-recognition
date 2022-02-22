@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+dlib = "==19.8.1"
+face-recognition = "==1.2.2"
+Pillow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
